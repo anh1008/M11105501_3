@@ -54,7 +54,15 @@
                         <li><a runat="server" href="~/">首頁</a></li>
                         <li><a runat="server" href="~/About">關於</a></li>
                         <li><a runat="server" href="~/Contact">連絡人</a></li>
-                    </ul>
+                        <li><a runat="server" href="https://localhost:44354/Q101.aspx">Q101</a></li>
+                        <li><a runat="server" href="https://localhost:44354/Q102.aspx">Q102</a></li>
+                        <li><a runat="server" href="https://localhost:44354/Q2.aspx">Q2</a></li>
+                        <li><a runat="server" href="https://localhost:44354/Q3.aspx">Q3</a></li>
+                        <li><a runat="server" href="https://localhost:44354/Q4.aspx">Q4</a></li>
+                        <li><a runat="server" href="https://localhost:44354/Q5.aspx">Q5</a></li>
+                        <li><a runat="server" href="https://localhost:44354/Bonus1.aspx">Bonus1</a></li>
+                        <li><a runat="server" href="https://localhost:44354/Bonus2.aspx">Bonus2</a></li>
+                        </ul>
                 </div>
             </div>
         </div>
