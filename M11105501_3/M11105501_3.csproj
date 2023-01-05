@@ -127,8 +127,7 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
-    <Content Include="Q101.aspx" />
-    <Content Include="Q102.aspx" />
+    <Content Include="Q1.aspx" />
     <Content Include="Q2.aspx" />
     <Content Include="Q3.aspx" />
     <Content Include="Q4.aspx" />
@@ -209,19 +208,12 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Q101.aspx.cs">
-      <DependentUpon>Q101.aspx</DependentUpon>
+    <Compile Include="Q1.aspx.cs">
+      <DependentUpon>Q1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Q101.aspx.designer.cs">
-      <DependentUpon>Q101.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Q102.aspx.cs">
-      <DependentUpon>Q102.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Q102.aspx.designer.cs">
-      <DependentUpon>Q102.aspx</DependentUpon>
+    <Compile Include="Q1.aspx.designer.cs">
+      <DependentUpon>Q1.aspx</DependentUpon>
     </Compile>
     <Compile Include="Q2.aspx.cs">
       <DependentUpon>Q2.aspx</DependentUpon>
